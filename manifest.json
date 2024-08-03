@@ -1,7 +1,7 @@
 {
     "name": "TabSwitch",
     "version": "0.0.1",
-    "description": "Switch between recent tabs",
+    "description": "Switch between 2 recent tabs",
     "manifest_version": 3,
     "author": "Silent Bob",
     "commands": {
